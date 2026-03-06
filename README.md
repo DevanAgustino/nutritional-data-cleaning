@@ -40,8 +40,8 @@ The cleaned data was visualized to show:
 * **Sodium Alert:** Highlighting processed brands with sodium levels exceeding recommended daily values.
 * **Top 10 Superfoods:** Food items with the highest Nutrition Density Index.
 
-*(Add your dashboard screenshot here)*
-![Nutritional Dashboard](visualizations/nutritional_dashboard_preview.png)
+![Nutritional Dashboard](https://github.com/DevanAgustino/nutritional-data-cleaning/blob/main/Visualization.png?raw=true)
+![Lihat Nutritional_Dasboard di Looker Studio](https://lookerstudio.google.com/reporting/2af37ca2-936c-475e-8383-3a516718926a)
 
 
 ## 🏁 Conclusion & Recommendations
@@ -62,7 +62,6 @@ This analysis reveals a stark contrast in nutritional profiles between **Traditi
 * 📁 `data/`: Contains `nilai-gizi.csv` (Raw).
 * 📁 `clean_data/`: Contains `analisa_gizi.csv` (Cleaned).
 * 📁 `analisis_nutrisi/`: SQL scripts for cleaning and analysis.
-* 📁 `visualizations/`: PDF and Image exports of the Looker Studio dashboard.
 
 ---
 
@@ -108,8 +107,8 @@ Data yang telah dibersihkan divisualisasikan untuk menampilkan:
 * **Peringatan Natrium:** Menyoroti brand makanan olahan dengan kadar natrium yang melebihi batas konsumsi harian.
 * **Top 10 Superfoods:** Daftar makanan dengan Indeks Kepadatan Gizi tertinggi.
 
-*(Tambahkan screenshot dashboard Anda di bawah ini)*
-![Nutritional Dashboard](visualizations/nutritional_dashboard_preview.png)
+![Nutritional Dashboard](https://github.com/DevanAgustino/nutritional-data-cleaning/blob/main/Visualization.png?raw=true)
+![Lihat Nutritional_Dasboard di Looker Studio](https://lookerstudio.google.com/reporting/2af37ca2-936c-475e-8383-3a516718926a)
 
 
 ## 🏁 Kesimpulan & Rekomendasi
@@ -130,5 +129,4 @@ Analisis ini menunjukkan adanya perbedaan profil nutrisi yang kontras antara mak
 * 📁 `data/`: Berisi file `nilai-gizi.csv` (Data Mentah).
 * 📁 `clean_data/`: Berisi file `analisa_gizi.csv` (Hasil Pembersihan).
 * 📁 `analisis_nutrisi/`: Script SQL untuk pembersihan dan analisis.
-* 📁 `visualizations/`: Ekspor PDF dan Gambar dari dashboard Looker Studio.
 

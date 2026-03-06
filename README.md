@@ -41,7 +41,8 @@ The cleaned data was visualized to show:
 * **Top 10 Superfoods:** Food items with the highest Nutrition Density Index.
 
 ![Nutritional Dashboard](https://github.com/DevanAgustino/nutritional-data-cleaning/blob/main/Visualization.png?raw=true)
-![Lihat Nutritional_Dasboard di Looker Studio](https://lookerstudio.google.com/reporting/2af37ca2-936c-475e-8383-3a516718926a)
+
+![View Nutritional_Dasboard on Looker Studio](https://lookerstudio.google.com/reporting/2af37ca2-936c-475e-8383-3a516718926a)
 
 
 ## 🏁 Conclusion & Recommendations
@@ -108,7 +109,8 @@ Data yang telah dibersihkan divisualisasikan untuk menampilkan:
 * **Top 10 Superfoods:** Daftar makanan dengan Indeks Kepadatan Gizi tertinggi.
 
 ![Nutritional Dashboard](https://github.com/DevanAgustino/nutritional-data-cleaning/blob/main/Visualization.png?raw=true)
-![View Nutritional_Dasboard on Looker Studio](https://lookerstudio.google.com/reporting/2af37ca2-936c-475e-8383-3a516718926a)
+
+![Lihat Nutritional_Dasboard di Looker Studio](https://lookerstudio.google.com/reporting/2af37ca2-936c-475e-8383-3a516718926a)
 
 
 ## 🏁 Kesimpulan & Rekomendasi

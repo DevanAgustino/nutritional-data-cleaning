@@ -58,12 +58,6 @@ This analysis reveals a stark contrast in nutritional profiles between **Traditi
 2. **For Manufacturers:** Products in the "Processed/Brand" category should be reformulated to increase fiber content and reduce sodium concentration to remain competitive in the growing healthy-food market.
 3. **System Development:** The SQL logic developed here can be scaled into a recommendation engine for health apps, automatically suggesting healthier traditional alternatives based on the processed products a user searches for.
 
-
-## 📂 Folder Structure
-* 📁 `data/`: Contains `nilai-gizi.csv` (Raw).
-* 📁 `clean_data/`: Contains `analisa_gizi.csv` (Cleaned).
-* 📁 `analisis_nutrisi/`: SQL scripts for cleaning and analysis.
-
 ---
 
 # 🥗 Data Cleaning & Analisis Kepadatan Gizi (Nutrition Density)
@@ -125,10 +119,4 @@ Analisis ini menunjukkan adanya perbedaan profil nutrisi yang kontras antara mak
 1. **Untuk Konsumen (Dietary Planning):** Prioritaskan makanan dengan *Nutrition Density Index* tinggi yang diidentifikasi dalam analisis ini untuk mencapai target nutrisi harian tanpa kelebihan kalori.
 2. **Untuk Industri/Produsen:** Produk dalam kategori "Olahan/Brand" perlu diformulasikan ulang untuk meningkatkan kandungan serat dan mengurangi konsentrasi natrium agar lebih kompetitif dalam pasar makanan sehat.
 3. **Pengembangan Sistem:** Logika SQL ini dapat dikembangkan menjadi sebuah mesin rekomendasi (recommendation engine) untuk aplikasi kesehatan yang secara otomatis menyarankan alternatif makanan tradisional yang lebih sehat berdasarkan profil produk olahan yang dicari pengguna.
-
-
-## 📂 Struktur
-* 📁 `data/`: Berisi file `nilai-gizi.csv` (Data Mentah).
-* 📁 `clean_data/`: Berisi file `analisa_gizi.csv` (Hasil Pembersihan).
-* 📁 `analisis_nutrisi/`: Script SQL untuk pembersihan dan analisis.
 
